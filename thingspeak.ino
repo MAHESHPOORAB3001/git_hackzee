@@ -6,7 +6,7 @@ const char* password = ""; // Replace with your Wi-Fi password
 
 // ThingSpeak settings
 const char* server = "api.thingspeak.com";
-String apiKey = "ONDRFRI82GTLHFYA";  // Replace with your ThingSpeak Write API Key
+String apiKey = "";  // Replace with your ThingSpeak Write API Key
 
 // pH and Temperature Sensor Pins
 const int phPin = 34;           // Analog pin for pH reading
